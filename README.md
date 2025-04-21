@@ -1,7 +1,7 @@
 # Win_Ita_Linux_keymap
 Italian custom keyboard with partial Linux keymap for Windows. Useful for small laptops with no numeric keypad. It avoids Alt + ASCII/UNICODE stunts
 
-For more information, visit [Acies Srl website:]([https://pages.github.com/](https://www.aciesinstruments.com/download/).
+For more information, visit [Acies Srl website:](https://www.aciesinstruments.com/download/).
 
 ## Install instructions
 
